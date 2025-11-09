@@ -10,19 +10,6 @@
 
 ---
 
-### 📫 Connect with Me
-<p align="center" style="line-height:2.5;">
-  <a href="https://linkedin.com/in/mesaif0" target="_blank">
-    <img src="assets/linkedin.svg" alt="LinkedIn" width="45" height="45" style="vertical-align: middle; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp; <span style="color: #444; font-size: 28px; font-weight: 100; vertical-align: middle;">|</span> &nbsp;&nbsp;
-  <a href="https://instagram.com/me_saif0" target="_blank">
-    <img src="assets/instagram.svg" alt="Instagram" width="45" height="45" style="vertical-align: middle; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
@@ -36,6 +23,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/mesaif0" target="_blank">
+    <img src="https://img.shields.io/badge/%20LinkedIn%20-0A66C2?style=for-the-badge&v=12" alt="LinkedIn"/>
+  </a>
+  <br> 
+  <a href="https://instagram.com/me_saif0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&v=12" alt="Instagram"/>
+  </a>
 </p>
 
 ---
