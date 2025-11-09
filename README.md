@@ -11,13 +11,13 @@
 ---
 
 ### 📫 Connect with Me
-<p align="center">
+<p align="center" style="line-height:2.5;">
   <a href="https://linkedin.com/in/mesaif0" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2?v=3" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C0" alt="LinkedIn" width="45" height="45" style="vertical-align: middle; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <br>
+  &nbsp;&nbsp; <span style="color: #444; font-size: 28px; font-weight: 100; vertical-align: middle;">|</span> &nbsp;&nbsp;
   <a href="https://instagram.com/me_saif0" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F?v=3" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405D" alt="Instagram" width="45" height="45" style="vertical-align: middle; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
 
